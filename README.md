@@ -5,7 +5,7 @@
 ``` shell
 npm install --save react-nest-menu
 ```
-#### Not push to npm yet.
+#### ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `Not push to npm yet.`
 
 
 ## Import
