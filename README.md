@@ -3,14 +3,14 @@ gh-menu
 ## Installation
 
 ``` shell
-npm install --save "gh-menu": "git+ssh://git@node82.ghtinc.com/private-module/gh-menu.git"
+npm install --save react-nest-menu
 ```
-#### you can add specific tag to select the version you want to use.
+#### Not push to npm yet.
 
 
 ## Import
 ```js
-import Menu, {  SubMenu , RightSubMenu, MenuItem} from 'gh-menu';
+import Menu, {  SubMenu , RightSubMenu, MenuItem} from 'react-nest-menu';
 ```
 
 ## Usage
