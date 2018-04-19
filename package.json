@@ -13,7 +13,7 @@
     "url": "http://node82.ghtinc.com/private-module/gh-menu.git"
   },
   "author": "cmh",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "normalize.css": "^7.0.0",
     "react": "^16.2.0",
