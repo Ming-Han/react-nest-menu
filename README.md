@@ -112,4 +112,4 @@ ReactDOM.render(<Menu>
 
 ## License
 
-gh-menu is released under the MIT license.
+react-nest-menu is released under the MIT license.
